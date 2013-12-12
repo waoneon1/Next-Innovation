@@ -1,0 +1,142 @@
+* {
+  font-family:century gothic;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+#wrap{
+	width: 1330px;
+	height: auto;
+	margin: 0 auto;
+}
+#header{
+	height: 200px;
+	border: 3px solid #C89A69; 
+	background-color:#663300;
+
+
+}
+#judul{
+	border: 3px solid #F4E5BC; 
+	background-color:#faf2dd;
+ 	font-weight: bold;
+ 	width: 600px;
+ 	height: 175px;	
+ 	float: left;
+ 	margin: 10px 10px 10px 10px;
+ 	text-decoration: none;
+}
+.half
+{
+	margin-left: 10px;
+	float: left;
+	color: #78D037;
+}
+span{
+	font-size: 100px;
+	color: #473506;
+	margin-left: 10px;
+}
+span#nd{
+	
+ 	font-size: 40px;
+ 	padding-left: 5px
+} 
+#mid1{
+	border: 3px solid #F4E5BC; 
+	background-color:#faf2dd;
+	margin: 10px 10px 10px 0;
+	width: 90px;
+	height: 175px;
+	float :left;
+}
+#mid2{
+	border: 3px solid #F4E5BC; 
+	background-color:#faf2dd;
+	margin: 10px 10px 10px 0;
+	width: 60px;
+	height: 175;
+	float :left;
+}
+#mid3{
+	border: 3px solid #F4E5BC; 
+	background-color:#faf2dd; 
+	margin: 10px 0 10px 0;
+	width: 30px;
+	height: 175px;
+	float :left;
+}
+#content{
+	border: 3px solid #F4E5BC; 
+	background-color:#faf2dd; 
+	margin: 10px 10px 10px 10px;
+	height: 175px;
+	width: 453px;
+	float :right;
+	background-image:url(c.png);
+	background-size:453px;
+	background-position:0px; 
+}
+.table{
+	margin-left: 10px;
+	margin-top: 10px;
+	color: #3A3A3B;
+	font-weight: bold;
+}
+/*===========================================================================*/
+
+#maincontent{
+	width: 1324px;
+	border: solid 3px #c89a69; 
+	background-color:#663300;
+ 	font-weight: bold;
+ 	float: left;
+ 	margin-top: 10px;
+}
+
+#box{
+	background-image: url(a.png);
+	border: solid 3px #f4e5bc; 
+ 	font-weight: bold;
+ 	background-color:#EFEFEF;
+ 	width: 422px;
+ 	height: 300px;
+ 	overflow: scroll;	
+ 	float: left;
+ 	margin: 10px 0 0 10px;
+ 	text-decoration: none;
+ 	background-color: 
+  } 
+#dir{
+ 	margin: 10px 10px 0 10px ;
+}
+
+fieldset.list{
+	border:1px ridge #fef1e6;
+  	padding: 2px 0 2px 5px;
+  	margin-bottom: 3px;
+}
+fieldset.list:hover{
+  	background-color: #acd337;
+  	color: white;
+}
+.list{
+	color: #5c2e00;
+	font-size: 13px;
+}
+#dirhead{
+ 	width: 365px;
+ 	height: 22px;
+ 	margin-bottom: 5px;
+ 	border-bottom: : solid 2px gray;
+ 	background-color: #663300;
+ 	color: white;
+ 	padding: 5px 10px 5px 10px;
+ 	text-align: center;
+ }
+#dirhead:hover
+{
+	background-image:url(b.png); 
+} 
+/*=Short Cut=======================================*/
